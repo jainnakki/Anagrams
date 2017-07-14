@@ -13,7 +13,7 @@ The user can give up and see the words that they did not guess.
 
 #Screens
 
-![Alt text](https://lh5.googleusercontent.com/QazB7KIOuzyXjDsQuTCoIuWlLZJe5sBRvhiZOiiMksq0mJUMEvdHoTqWKqoeNlp6qPPk10XS=w1366-h638 "Optional title")
+<img src="./anagrams.png"></img>
 
 #License
 
